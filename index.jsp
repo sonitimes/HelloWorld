@@ -1,1 +1,1 @@
-<%="Hello World - Soni3!"%>
+<%="Hello World - Sonitest!"%>
